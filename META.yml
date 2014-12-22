@@ -3,8 +3,6 @@ abstract: 'Connection pool based on AnyEvent'
 author:
   - justnoxx
 build_requires: {}
-configure_requires:
-  ExtUtils::MakeMaker: '6.30'
 dynamic_config: 1
 generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.142690'
 license: perl
@@ -16,7 +14,6 @@ no_index:
   directory:
     - t
     - inc
-requires:
-  Carp: '0'
-  POSIX: '0'
-version: '0.05'
+resources:
+  repository: https://github.com/justnoxx/anyevent-connpool.git
+version: '0.06'
