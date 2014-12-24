@@ -1,3 +1,6 @@
+0.08 - 24.12.2014 22:25
+    Removed shebangs from tests.
+
 0.07 - 23.12.2014
     Removed annoying print
 
@@ -5,4 +8,5 @@
     Updated pod, added github links.
 
 0.05 - 22.12.2014
-    Initial version. 
+    Initial version.
+
