@@ -16,4 +16,4 @@ no_index:
     - inc
 resources:
   repository: https://github.com/justnoxx/anyevent-connpool.git
-version: '0.08'
+version: '0.09'
